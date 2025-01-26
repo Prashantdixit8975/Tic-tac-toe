@@ -1,2 +1,1 @@
-# Tic-tac-toe
-Game using Python
+Start using github
